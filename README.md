@@ -37,7 +37,8 @@ Minha missão é unir a **visão estratégica da Administração** com o **poder
 
 ### 📫 Como me encontrar:
 
-- **LinkedIn:** [Seu Link do LinkedIn aqui]
-- **Portfólio Streamlit:** [Seu Link Geral do Streamlit aqui]
+- *[LinkedIn](https://www.linkedin.com/in/jerfss/)*
+- *[GitHub / Portfólio](https://github.com/jerfzz?tab=repositories)*
+- *[Streamlit](https://share.streamlit.io/user/jerfzz)*
 
 *"Transformando dados brutos em decisões inteligentes através da Gestão de Projetos e Automação."*
