@@ -2,7 +2,7 @@
 
 ### ⚙️ Futuro Especialisa em Gestão de Projetos | 🧾 Analista Fiscal
 
-Sou Bacharel em Administração e atualmente me especializo em **Gestão de Projetos pela ETEC**. Atuo na área Fiscal (Recebimento), onde utilizo tecnologia para transformar processos manuais e burocráticos em fluxos de trabalho inteligentes e automatizados.
+Sou Bacharel em Administração e atualmente me especializo em **Gestão de Projetos pela ETEC**. Atuo como Analista Fiscal no time de CSC - Gestão de Documentos Fiscais da empresa LWSA, onde utilizo tecnologia para transformar processos manuais e burocráticos em fluxos de trabalho inteligentes e automatizados.
 
 ---
 
