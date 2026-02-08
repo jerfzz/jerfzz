@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerfzz/)](https://www.linkedin.com/in/jerfss/)
 [![Streamlit Badge](https://img.shields.io/badge/-streamlit-white?style=flat-square&logo=streamlit&logoColor=red&link=https://share.streamlit.io/user/jerfzz)](https://share.streamlit.io/user/jerfzz)
 
-### 🎓 Futuro Especialista em Gestão de Projetos | 🔍 Analista Fiscal
+### 🔍 Analista Fiscal | 🎓 Futuro Especialista em Gestão de Projetos
 
 Sou Bacharel em Administração e, atualmente, me especializo em **Gestão de Projetos pela ETEC**. Atuo como Analista Fiscal, transformando rotinas manuais em fluxos de trabalho automatizados e inteligentes por meio da tecnologia, visando otimizar a conformidade fiscal.
 
