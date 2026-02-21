@@ -1,4 +1,4 @@
-# Olá, eu sou o Jerfeson! c:
+# Olá, eu sou o Jerfeson! C:
 
 [![Github Badge](https://img.shields.io/badge/github-repo-black?style=flat-square&logo=github&link=https://github.com/jerfzz?tab=repositories)](https://github.com/jerfzz?tab=repositories)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerfzz/)](https://www.linkedin.com/in/jerfss/)
@@ -37,7 +37,7 @@ Minha missão é unir a **visão estratégica da Administração** com o **poder
 
 - **[Relatório de Vendas Interativo](https://dashboard-relatorio-vendas-2018-jerfzz.streamlit.app/):** Dashboard desenvolvido em Streamlit/Python para análise de performance comercial.
 - **[Imersão de Dados com Python](https://imersao-dados-python-alura-jerfzz.streamlit.app/):** Análise exploratória de dados reais focada em extração de insights e storytelling.
-- **Auditoria SAP x ServiceNow (Em desenvolvimento):** Script para cálculo de lead time e automação de auditoria fiscal.
+- **Implementação de Dashboard de Performance Logística (OTIF & LEAD TIME ANALYTICS):** Script para cálculo de KPIs logísticos OTIF e lead time médio.
 
 ---
 
