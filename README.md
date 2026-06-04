@@ -35,9 +35,9 @@ Minha missão é unir a **visão estratégica da Administração** com o **poder
 
 ### 📊 Projetos em Destaque
 
-- **[Relatório de Vendas Interativo](https://dashboard-relatorio-vendas-2018-jerfzz.streamlit.app/):** Dashboard desenvolvido em Streamlit/Python para análise de performance comercial.
+- **[Relatório de Vendas Interativo](https://dashboard-relatorio-vendas-2018-jerfzz.streamlit.app/):** Dashboard desenvolvido em Python/Streamlit para análise de performance comercial.
 - **[Imersão de Dados com Python](https://imersao-dados-python-alura-jerfzz.streamlit.app/):** Análise exploratória de dados reais focada em extração de insights e storytelling.
-- **Implementação de Dashboard de Performance Logística (OTIF & Lead Time Analytics):** Dashboard desenvolvido em Streamlit/Python para análise de performance logística.
+- **[Implementação de Dashboard de Performance Logística (OTIF & Lead Time Analytics)](https://dashboard-logistico-pi-gestaoprojetos-cps.streamlit.app/):** Dashboard desenvolvido em Python/Streamlit para análise de performance logística.
 
 ---
 
