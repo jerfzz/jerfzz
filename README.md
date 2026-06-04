@@ -1,35 +1,36 @@
-# Olá, eu sou o Jerfeson! C:
+# Olá, eu sou o Jerfeson! 🥤
 
 [![Github Badge](https://img.shields.io/badge/github-repo-black?style=flat-square&logo=github&link=https://github.com/jerfzz?tab=repositories)](https://github.com/jerfzz?tab=repositories)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerfzz/)](https://www.linkedin.com/in/jerfss/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerfss/)](https://www.linkedin.com/in/jerfss/)
 [![Streamlit Badge](https://img.shields.io/badge/-streamlit-white?style=flat-square&logo=streamlit&logoColor=red&link=https://share.streamlit.io/user/jerfzz)](https://share.streamlit.io/user/jerfzz)
 
-### 🔍 Analista Fiscal | 🎓 Futuro Especialista em Gestão de Projetos
+#### 🔍 Analista Fiscal - Consultivo Fiscal |  🎓 Especialista em Gestão de Projetos | 💡 Foco em Automação e Inteligência de Dados
 
-Sou Bacharel em Administração e, atualmente, me especializo em **Gestão de Projetos pela ETEC**. Atuo como Analista Fiscal, transformando rotinas manuais em fluxos de trabalho automatizados e inteligentes por meio da tecnologia, visando otimizar a conformidade fiscal.
+Minha trajetória profissional é definida pela intersecção entre a solidez da Controladoria e a agilidade da análise de dados. Com **mais de 10 anos de experiência corporativa**, atuo na fronteira entre o fiscal e a tecnologia, transformando processos tributários e financeiros burocráticos em fluxos de trabalho eficientes, escaláveis e precisos.
 
----
-
-### 💡 O que eu faço?
-
-Minha missão é unir a **visão estratégica da Administração** com o **poder analítico do Python**. Tenho experiência no ecossistema **SAP (Hana/Ariba)** e utilizo ferramentas de BI para monitorar performance e conformidade.
-
-- **Atuação em Recebimento Fiscal:** Análise, lançamento, escrituração e conformidade fiscal.
-- **Automação Fiscal:** Desenvolvimento de scripts para cruzamento de dados entre SAP e ServiceNow. 🛠️
-- **Data Analytics:** Criação de dashboards interativos para tomada de decisão estratégica. 🛠️
-- **Gestão de Projetos:** Aplicação de metodologias ágeis e PMBOK para otimização de fluxos operacionais. 🛠️
+Atualmente na **FEMSA Coca-Cola Brasil**, dedico minha energia à modelagem de dados preditivos, auditoria preventiva de parametrizações sistêmicas e simulação de cenários para a **Reforma Tributária (IBS/CBS pós-2026)**, BIs do **Consultivo Fiscal** e **Compliance** utilizando ambientes Cloud de alta performance.
 
 ---
 
-*Nota: Itens marcados com 🛠️ estão em fase de estudo ou desenvolvimento.*
+### 💡 O que eu entrego?
 
-### 🚀 Tecnologias e Ferramentas
+Acredito que dados devem servir como base para decisões estratégicas. Unindo a visão da Administração ao poder da engenharia de dados, entrego soluções focadas em:
 
-- **Linguagens:** Python - Pandas, Numpy, Matplotlib, Seaborn, (Regex 🛠️).
-- **Visualização de Dados:** Power BI, Google Looker Studio, (Streamlit 🛠️).
-- **Sistemas Corporativos:** SAP Hana, SAP Ariba, ServiceNow, (Qive 🛠️).
-- **Bancos de Dados:** SQL, Excel Avançado (VBA). 🛠️
-- **Cloud/IA:** Conhecimentos em Microsoft Azure (AZ-900 / AI-900). 🛠️
+- **Business Intelligence & Análise Consultiva:** Desenvolvimento de arquiteturas de dados complexas para auditar parametrizações fiscais (como a alíquota de contingência de 1% do IBS/CBS em 2026) e projetar impactos em margem líquida.
+- **Automação Fiscal & Reengenharia:** Histórico de resultados expressivos, incluindo a **redução de até 70% em provisões de despesas** por meio da otimização de fluxos operacionais e integração de dados.
+- **Data Engineering Aplicada:** Extração, consolidação e modelagem de grandes históricos de dados tributários originados de ERPs e sistemas de mensageria fiscal para Data Lakes.
+- **Gestão de Projetos e Processos:** Aplicação prática de metodologias ágeis e frameworks de gestão no desenho de soluções fiscais digitais (cursando Especialização na ETEC).
+
+---
+
+### 🚀 Stack Tecnológico
+
+- **Big Data & Analytics:** Databricks (Apache Spark) 🛠️, SQL (Banco de Dados) 🛠️, Alteryx 🛠️, Python (Pandas/NumPy).
+- **Data Viz & Reporting:** Power BI (Modelagem Star Schema), Microsoft Excel Avançado (VBA/Macros), PowerPoint Executivo (Think-Cell 🛠️).
+- **ERP & Compliance:** SAP ECC e S/4HANA (FI/CO/MM), SAP Ariba, Mastersaf DW 🛠️.
+- **Automação & Low-Code:** Power Automate 🛠️, Microsoft Copilot Studio.
+
+*Nota: Itens marcados com 🛠️ estão em fase de aprofundamento prático/acadêmico ou implementação no ecossistema atual (SENAI/SENAC).*
 
 ---
 
@@ -41,4 +42,4 @@ Minha missão é unir a **visão estratégica da Administração** com o **poder
 
 ---
 
-*"Transformando dados brutos em decisões inteligentes através da Gestão de Projetos e Automação."*
+*"Transformando dados brutos em decisões inteligentes, mitigando riscos operacionais e garantindo a qualidade da informação."*
