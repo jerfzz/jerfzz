@@ -25,9 +25,9 @@ Acredito que dados devem servir como base para decisões estratégicas. Unindo a
 
 ### 🚀 Stack Tecnológico
 
-- **Big Data & Analytics:** Databricks (Apache Spark) 🛠️, SQL (Banco de Dados) 🛠️, Alteryx 🛠️, Python (Pandas/NumPy).
+- **Big Data & Analytics:** Databricks (Apache Spark), SQL (Banco de Dados), Alteryx 🛠️, Python (Pandas/NumPy).
 - **Data Viz & Reporting:** Power BI (Modelagem Star Schema), Microsoft Excel Avançado (VBA/Macros), PowerPoint Executivo (Think-Cell 🛠️).
-- **ERP & Compliance:** SAP ECC e S/4HANA (FI/CO/MM), SAP Ariba, Mastersaf DW 🛠️.
+- **ERP & Compliance:** SAP ECC e S/4HANA (FI/CO/MM), SAP Ariba, Mastersaf DW, Tax One 🛠️.
 - **Automação & Low-Code:** Power Automate 🛠️, Microsoft Copilot Studio.
 
 *Nota: Itens marcados com 🛠️ estão em fase de aprofundamento prático/acadêmico ou implementação no ecossistema atual (SENAI/SENAC).*
